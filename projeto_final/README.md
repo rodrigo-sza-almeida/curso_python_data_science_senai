@@ -9,8 +9,7 @@ O objetivo deste projeto é aplicar, de forma integrada, os conceitos estudados 
 
 ## 🎯 Objetivo do projeto
 
-[Descreva em 2–4 frases o objetivo principal do projeto.  
-Ex.: Analisar o comportamento de vendas de uma empresa fictícia, identificando padrões sazonais, produtos de maior relevância e oportunidades de melhoria nos resultados.]
+Este notebook foi desenvolvido para analisar dados de preços de carros, focando especificamente em veículos do ano de 2010, e para identificar padrões e tendências de mercado. As etapas realizadas e os insights gerados são detalhados a seguir:
 
 ---
 
