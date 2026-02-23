@@ -75,10 +75,13 @@ Abaixo, uma visão geral dos notebooks disponíveis neste repositório:
    git clone https://github.com/rodrigo-sza-almeida/curso_python_data_science_senai.git
 
 2. Instale as dependências necessárias (se estiver usando ambiente local com pip):
+   
    pip install -r requirements.txt
 
-3. Abra os notebooks:
+4. Abra os notebooks:
+5. 
    - Usando Jupyter Notebook:
+     
      jupyter notebook
 
    - Ou carregando os arquivos diretamente no Google Colab.
