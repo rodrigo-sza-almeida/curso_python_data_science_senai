@@ -91,9 +91,11 @@ Abaixo, uma visão geral dos notebooks disponíveis neste repositório:
 
 
 📬 Contato
+
 Fique à vontade para entrar em contato ou enviar sugestões:
 
 LinkedIn: [[LinkedIn de Rodrigo de Souza](https://www.linkedin.com/in/rodrigo-de-souza-almeida/)]
+
 GitHub: [[Gihub de Rodrigo de Souza](https://github.com/rodrigo-sza-almeida)]
 
 
